@@ -38,7 +38,7 @@ https://furniturewithcartredux.vercel.app/
 
 The UI was designed using Figma with focus on usability and visual hierarchy. You can import your own Figma link or use this as a starting point for building pixel-perfect frontend clones.
 
-(Optional Figma link: https://www.figma.com/file/example)
+
 
 ---
 
@@ -51,14 +51,8 @@ Include visuals like:
 - Cart and wishlist pages
 - Responsive mobile views
 
----
 
-## 🚀 Getting Started
 
-1️⃣ Clone the repo:
 
-```bash
-git clone https://github.com/your-username/ecommerce-frontend.git
-cd ecommerce-frontend
 
 
